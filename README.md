@@ -14,6 +14,7 @@
  <img align="center" height:"70" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" height:"70" width="90" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img align="center" height:"70" width="90" src="https://img.shields.io/badge/Angular-D">
+ <img align="center" height:"70" width="90" src="https://img.shields.io/badge/React-D">
  <img align="center" height:"70" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img align="center" height:"70" width="90" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" height:"70" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
